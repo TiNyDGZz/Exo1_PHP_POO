@@ -1,0 +1,15 @@
+.fixed-bg {
+    background-image: url("img/bkg.png");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.white{
+    color: white;
+}
+.padding-top{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
